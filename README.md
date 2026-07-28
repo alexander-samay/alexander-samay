@@ -6,6 +6,8 @@
 
 **Building secure, observable, and scalable cloud platforms that help engineering teams ship with confidence.**
 
+[![Profile views](https://komarev.com/ghpvc/?username=alexander-samay&color=D97757&style=flat)](https://github.com/alexander-samay)
+
 </div>
 
 ---
