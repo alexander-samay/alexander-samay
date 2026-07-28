@@ -6,11 +6,6 @@
 
 **Building secure, observable, and scalable cloud platforms that help engineering teams ship with confidence.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-alex--samay.com-D97757?style=flat&logo=googlechrome&logoColor=white)](https://alex-samay.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-alexander--samay-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-samay/)
-[![Resume](https://img.shields.io/badge/Resume-PDF-B65334?style=flat&logo=adobeacrobatreader&logoColor=white)](https://alex-samay.com/assets/alexander-samay-devops-resume.pdf)
-[![Email](https://img.shields.io/badge/Email-Contact-6B6455?style=flat&logo=gmail&logoColor=white)](mailto:alexander.samay12@gmail.com)
-
 </div>
 
 ---
