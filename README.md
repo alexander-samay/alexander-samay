@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/alexander-samay-profile.png" width="180" alt="Alexander Samay" />
-
 <h1>Hi, I'm Alexander Samay 👋</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=D97757&center=true&vCenter=true&width=680&lines=Platform+%2F+DevOps+%2F+Cloud+Engineer;AWS+%7C+Kubernetes+%7C+Terraform+%7C+GitOps;Building+reliable+platforms+at+scale" alt="Platform, DevOps, and Cloud Engineer" />
